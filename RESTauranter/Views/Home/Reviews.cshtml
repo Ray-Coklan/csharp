@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Reviews Page";
+}
+<h1>All Reviews:</h1>
+<form action="/">
+    <button>HOME</button>
+</form>
+<br>
+@foreach(var rest in ViewBag.Reviews) 
+{
+    <blockquote>
+        <p>@rest.Review</p>
+        <footer>Review for: @rest.RestaurantName, @rest.Stars Stars</footer>
+        <footer>Reviewer: @rest.ReviewerName, @rest.DateVisit.ToString("D")</footer>
+    </blockquote>
+}

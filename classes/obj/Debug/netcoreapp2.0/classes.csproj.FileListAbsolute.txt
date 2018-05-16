@@ -1,0 +1,10 @@
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/bin/Debug/netcoreapp2.0/classes.deps.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.dev.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/bin/Debug/netcoreapp2.0/classes.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/bin/Debug/netcoreapp2.0/classes.pdb
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/obj/Debug/netcoreapp2.0/classes.csproj.CoreCompileInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfoInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfo.cs
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/obj/Debug/netcoreapp2.0/classes.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/classes/obj/Debug/netcoreapp2.0/classes.pdb

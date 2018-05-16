@@ -1,0 +1,10 @@
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/obj/Debug/netcoreapp2.0/boxing.csproj.CoreCompileInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/obj/Debug/netcoreapp2.0/boxing.AssemblyInfoInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/obj/Debug/netcoreapp2.0/boxing.AssemblyInfo.cs
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/bin/Debug/netcoreapp2.0/boxing.deps.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/bin/Debug/netcoreapp2.0/boxing.runtimeconfig.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/bin/Debug/netcoreapp2.0/boxing.runtimeconfig.dev.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/bin/Debug/netcoreapp2.0/boxing.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/bin/Debug/netcoreapp2.0/boxing.pdb
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/obj/Debug/netcoreapp2.0/boxing.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/boxing/obj/Debug/netcoreapp2.0/boxing.pdb

@@ -1,0 +1,3 @@
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/randompass/obj/Debug/netcoreapp2.0/randompass.csproj.CoreCompileInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/randompass/obj/Debug/netcoreapp2.0/randompass.AssemblyInfoInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/randompass/obj/Debug/netcoreapp2.0/randompass.AssemblyInfo.cs

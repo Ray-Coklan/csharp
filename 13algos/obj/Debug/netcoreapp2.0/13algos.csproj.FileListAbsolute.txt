@@ -1,0 +1,10 @@
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/bin/Debug/netcoreapp2.0/13algos.deps.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/bin/Debug/netcoreapp2.0/13algos.runtimeconfig.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/bin/Debug/netcoreapp2.0/13algos.runtimeconfig.dev.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/bin/Debug/netcoreapp2.0/13algos.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/bin/Debug/netcoreapp2.0/13algos.pdb
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/obj/Debug/netcoreapp2.0/13algos.csproj.CoreCompileInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/obj/Debug/netcoreapp2.0/13algos.AssemblyInfoInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/obj/Debug/netcoreapp2.0/13algos.AssemblyInfo.cs
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/obj/Debug/netcoreapp2.0/13algos.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/13algos/obj/Debug/netcoreapp2.0/13algos.pdb

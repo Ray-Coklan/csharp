@@ -1,0 +1,10 @@
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/bin/Debug/netcoreapp2.0/pokeinfo.deps.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/bin/Debug/netcoreapp2.0/pokeinfo.runtimeconfig.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/bin/Debug/netcoreapp2.0/pokeinfo.runtimeconfig.dev.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/bin/Debug/netcoreapp2.0/pokeinfo.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/bin/Debug/netcoreapp2.0/pokeinfo.pdb
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/obj/Debug/netcoreapp2.0/pokeinfo.csproj.CoreCompileInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/obj/Debug/netcoreapp2.0/pokeinfo.AssemblyInfoInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/obj/Debug/netcoreapp2.0/pokeinfo.AssemblyInfo.cs
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/obj/Debug/netcoreapp2.0/pokeinfo.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/pokeinfo/obj/Debug/netcoreapp2.0/pokeinfo.pdb

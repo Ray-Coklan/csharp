@@ -1,0 +1,10 @@
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/bin/Debug/netcoreapp2.0/formsub.deps.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/bin/Debug/netcoreapp2.0/formsub.runtimeconfig.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/bin/Debug/netcoreapp2.0/formsub.runtimeconfig.dev.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/bin/Debug/netcoreapp2.0/formsub.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/bin/Debug/netcoreapp2.0/formsub.pdb
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/obj/Debug/netcoreapp2.0/formsub.csproj.CoreCompileInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/obj/Debug/netcoreapp2.0/formsub.AssemblyInfoInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/obj/Debug/netcoreapp2.0/formsub.AssemblyInfo.cs
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/obj/Debug/netcoreapp2.0/formsub.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/formsub/obj/Debug/netcoreapp2.0/formsub.pdb

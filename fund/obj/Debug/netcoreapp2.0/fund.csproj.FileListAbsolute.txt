@@ -1,0 +1,10 @@
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/bin/Debug/netcoreapp2.0/fund.deps.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/bin/Debug/netcoreapp2.0/fund.runtimeconfig.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/bin/Debug/netcoreapp2.0/fund.runtimeconfig.dev.json
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/bin/Debug/netcoreapp2.0/fund.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/bin/Debug/netcoreapp2.0/fund.pdb
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/obj/Debug/netcoreapp2.0/fund.csproj.CoreCompileInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/obj/Debug/netcoreapp2.0/fund.AssemblyInfoInputs.cache
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/obj/Debug/netcoreapp2.0/fund.AssemblyInfo.cs
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/obj/Debug/netcoreapp2.0/fund.dll
+/Users/raymondcoklan/Documents/Coding_Dojo/csharp/fund/obj/Debug/netcoreapp2.0/fund.pdb
